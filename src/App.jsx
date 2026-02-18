@@ -1411,6 +1411,9 @@ const inputStyle = {
   fontSize: "13px",
   fontFamily: "inherit",
   background: "#fff",
+  color: "#2d2a26",
   outline: "none",
   transition: "border-color 0.2s",
+  WebkitTextFillColor: "#2d2a26",
+  opacity: 1,
 };
